@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.21fa8daf.css",
-    "main.js": "/portfolio/static/js/main.11701a59.js",
+    "main.js": "/portfolio/static/js/main.63aa2ab9.js",
     "static/media/about_anime.gif": "/portfolio/static/media/about_anime.986764c2696118dcbe90.gif",
     "static/media/home_anime.gif": "/portfolio/static/media/home_anime.f372ef867ab6dc71a52b.gif",
     "static/media/publications_vector.png": "/portfolio/static/media/publications_vector.1fb5f4a4d14c368c84df.png",
@@ -23,10 +23,10 @@
     "static/media/java.png": "/portfolio/static/media/java.798ad9a18f47c826c956.png",
     "index.html": "/portfolio/index.html",
     "main.21fa8daf.css.map": "/portfolio/static/css/main.21fa8daf.css.map",
-    "main.11701a59.js.map": "/portfolio/static/js/main.11701a59.js.map"
+    "main.63aa2ab9.js.map": "/portfolio/static/js/main.63aa2ab9.js.map"
   },
   "entrypoints": [
     "static/css/main.21fa8daf.css",
-    "static/js/main.11701a59.js"
+    "static/js/main.63aa2ab9.js"
   ]
 }
